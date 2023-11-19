@@ -48,12 +48,10 @@ Número | Nome | Nota
 
 
 
-10. Para descarta algum comando de programação basta colocar entre crase (``) exemplo 1; Pra destacar trechos de programa, basta inserir três crases (``````) exemplo 2.
+10. Para descarta algum comando de programação basta colocar entre crase (``) **exemplo 1**; Pra destacar trechos de programa, basta inserir três crases (``````) **exemplo 2**.
 
-* exemplo 1
-`document.getElementById()`
-* exemplo 2
-olha meu programa em Python
+    1. Exemplo 1: `document.getElementById()`
+    2. Exemplo 2: **Veja meu programa em Python**
 ```
 num = int(input('Digitr um valor:')
 if num %2 == 0:
@@ -64,7 +62,7 @@ else
 
 ## Esses foram os principais comandos da linguagem Markdown que aprendi
 
-*alterações contantes serão feitas
+*alterações serão feitas constantemente
 
 
 
